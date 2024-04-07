@@ -7,3 +7,7 @@ def funcion():
     datos = pd.DataFrame(dic)
     
     return datos.to_csv('dataframe.csv')
+
+def funcion2():
+     z =3*3
+     return print(z)
